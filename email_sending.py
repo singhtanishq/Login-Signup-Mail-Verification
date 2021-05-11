@@ -13,11 +13,11 @@ def send_mail(para_email,para_name):
 	port = 465  
 	smtp_server = "smtp.gmail.com"
 	#here senders email is written
-	sender_email = "tanishq.rc@gmail.com"  
+	sender_email = "senders_email_address"  
 	#here receiver email will be assigned from parameter
 	receiver_email = para_email
 	#password of sender's email for login
-	password = "@Tan_sin#18"
+	password = "senders_password"
 	#message to be sent is written here
 	#format of writing should be neccesarily the same to get the required result
 	message = """\
