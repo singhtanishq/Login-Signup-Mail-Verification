@@ -28,7 +28,8 @@ OTP for account verification is """+str(gen_otp)+""".
 	
 Please do not share this OTP with anyone,
 TANISHQ ACCOUNTS never calls you for OTP.
-If this was a mistake and you are not the owner of this account, kindly ignore this mail and do not forward this mail at any circumstances.
+If this was a mistake and you are not the owner of this account,
+kindly ignore this mail and do not forward this mail at any circumstances.
 	
 Thank You
 Team TANISHQ ACCOUNTS"""
