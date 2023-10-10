@@ -1,7 +1,19 @@
-# Login-Signup-with-Mail-Verification
-This project is created by Tanishq Singh, using python language.
-Here, data is stored by using a combination of list and dictionary and those data are dumped into binary file.
-As the program starts, user are welcomed in TANISHQ ACCOUNTS that's an imaginary platform created where user can Sign up or login into their account.
-Programs displays two options log in or sign up. When user sign up then, few things are always checked and ensured by this program such as user ID that they are creating must not already exists, password should be alpha numeric only. When they login again few things are checked like user exists or not, if exists then password is correct or not and so on.
-The best thing about this program is that a separate module is being created in this project for sending mail, whenever user login or sign up an OTP is generated using random module, sent to email id of the user if OTP matches then only successful login or sign takes place.
-This is how my program looks like.
+# Login-SignUp-Mail-Verification
+The project is created by Tanishq Singh using the Python programming language.
+
+# Key features:
+- Data is stored using a combination of lists and dictionaries, and this data is dumped into a binary file.
+
+- The program simulates an imaginary platform called "TANISHQ ACCOUNTS," where users can sign up or log in to their accounts.
+
+- The program presents two options to users: log in or sign up.
+
+- During the sign-up process, several checks are performed, such as ensuring that the user ID being created does not already exist and that the password provided is alphanumeric.
+
+- When users attempt to log in, various checks are carried out, including verifying whether the user exists and whether the password is correct.
+
+- A notable feature of the program is the creation of a separate module for sending emails. An OTP (One-Time Password) is generated using the random module and sent to the user's email address.
+
+- Successful login or sign-up only occurs if the entered OTP matches the one sent to the user's email.
+
+- This program combines user authentication, data storage, and email verification to create a secure user account management system.
